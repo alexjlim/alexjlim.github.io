@@ -236,6 +236,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# Highlight code snippets
+highlighter: rouge
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

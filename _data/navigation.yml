@@ -5,7 +5,7 @@ main:
    - title: "Primers"
      url: /primers
    - title: "Blog"
-     url: /blog/index.html
+     url: /blog/
    - title: "Essays"
      url: /essays
    - title: "Quotes"

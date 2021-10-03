@@ -293,7 +293,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      show_date: false
+      show_date: true
       date_format: "%m-%d-%Y"
       read_time: false
       comments: false

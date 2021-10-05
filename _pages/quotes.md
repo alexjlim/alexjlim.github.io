@@ -3,6 +3,8 @@ title: "Quotes"
 permalink: /quotes
 ---
 
+A grab bag of quotes encompassing the ethos to which this site aspires to:
+
 "I haven't thought of anything, have you? No, neither have I. Think, think, think." - *Winnie the Pooh*
 
 "The important thing about science is not so much to obtain new facts as to discover new ways of thinking about them." - *William Bragg*

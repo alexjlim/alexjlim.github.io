@@ -17,13 +17,19 @@ A curated collection of articles providing technical/thematic context for most o
 - article two
 - article three
 
-**Algorithms for Inference and Optimization**
+**Algorithms for Inference**
 
 - article one
 - article two
 - article three
 
-**Writing and Programming**
+**Probabilistic Programming**
+
+- article one
+- article two
+- article three
+
+**Writing**
 
 - article one
 - article two

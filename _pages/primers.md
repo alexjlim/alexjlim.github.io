@@ -3,7 +3,7 @@ title: "Primers"
 permalink: /primers
 ---
 
-A curated collection of articles providing technical/thematic context for most of the material on this site.
+A curated collection of posts providing technical/thematic context for most of the material on this site.
 
 **Mathematical Preliminaries**
 

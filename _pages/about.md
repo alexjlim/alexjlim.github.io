@@ -9,7 +9,7 @@ In general, [blog](https://alexjlim.com/blog) posts are intended to be off the c
 
 Additional [resources](https://alexjlim.com/resources) that may be useful in helping advance your understanding of how we learn from data have also been included.
 
-Feel free to reach out at [contact[at]alexjlim.com](mailto:contact@alexjlim.com)!
+Feel free to reach out at [contact[at]alexjlim[dot]com](mailto:contact@alexjlim.com)!
 
 Thanks for reading,
 

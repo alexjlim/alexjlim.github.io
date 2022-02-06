@@ -5,7 +5,7 @@ main:
    - title: "Primers"
      url: /primers
    - title: "Blog"
-     url: /blog/
+     url: https://blog.alexjlim.com
    - title: "Essays"
      url: /essays
    - title: "Quotes"
